@@ -13,6 +13,16 @@ There are 4 [requirements](https://learn.microsoft.com/en-us/partner-center/refe
 
 For a SaaS solution to pass technical validation, it must be "primarily platformed on Azure." This is detailed in the [Marketplace Terms and Conditions for SaaS offers](https://learn.microsoft.com/en-us/legal/marketplace/certification-policies#1000-software-as-a-service-saas).
 
+## Marketplace Offer Decision Chart
+
+Use this chart to identify the Microsoft Marketplace offer type that best fits
+your delivery model, deployment target, and management responsibilities. The
+legend distinguishes Azure IP co-sell-supported offer types from other
+Marketplace and independent deployment options.
+
+To adapt the chart, [download the editable Draw.io source](decision-chart.drawio).
+
+[![Microsoft Marketplace offer type decision chart](decision-chart.png)](decision-chart.png)
 
 ## Example Architecture
 
